@@ -5,5 +5,10 @@ Shivay is a one type of dictionary-based hash cracking tool also use for Passwor
 
 # Screenshot
 
+<img src="Images\Screenshot.png" width="1000" height="700">
+You can also provide the text file with hash strings
+<br></br>
+<img src="Images\Screenshot-2.png" width="1000" height="700">
+
 
 # Installation
