@@ -1,2 +1,0 @@
-# Shivay
-hash cracking tool
